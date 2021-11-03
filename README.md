@@ -27,7 +27,6 @@
 
 # Determining Moore's Law with real data in NumPy
 
-For Atoosa
 
 ![MOS tansistor count](img/Moore.png)
 
