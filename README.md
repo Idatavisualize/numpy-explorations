@@ -27,6 +27,8 @@
 
 # Determining Moore's Law with real data in NumPy
 
+For Atoosa
+
 ![MOS tansistor count](img/Moore.png)
 
 The number of transistors reported per a given chip plotted on a log scale in the y axis with the date of introduction on the linear scale x-axis. The blue data points are from a [transistor count table](https://en.wikipedia.org/wiki/Transistor_count#Microprocessors "transistor count table"). The red line is an ordinary least squares prediction and the orange line is Moore's law.
